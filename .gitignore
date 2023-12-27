@@ -1,3 +1,5 @@
 .vscode
 **/**.pth
 **/**ubyte**
+**/data
+**/runs

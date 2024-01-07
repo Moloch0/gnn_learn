@@ -3,3 +3,6 @@
 **/**ubyte**
 **/data
 **/runs
+**/**.pt
+**/**tmp
+**/**.ptl
